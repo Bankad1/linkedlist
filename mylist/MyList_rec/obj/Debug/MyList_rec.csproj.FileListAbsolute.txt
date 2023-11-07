@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\mscapps\MyList_rec\bin\Debug\MyList_rec.exe.config
+C:\Users\user\Desktop\mscapps\MyList_rec\bin\Debug\MyList_rec.exe
+C:\Users\user\Desktop\mscapps\MyList_rec\bin\Debug\MyList_rec.pdb
+C:\Users\user\Desktop\mscapps\MyList_rec\obj\Debug\MyList_rec.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mscapps\MyList_rec\obj\Debug\MyList_rec.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\mscapps\MyList_rec\obj\Debug\MyList_rec.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mscapps\MyList_rec\obj\Debug\MyList_rec.exe
+C:\Users\user\Desktop\mscapps\MyList_rec\obj\Debug\MyList_rec.pdb
